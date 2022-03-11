@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aksh4n
-- 👀 I’m interested in web developing
-- 🌱 I’m currently learning building web applications by flask and django
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning moduls and database management in Django 
 - 💞️ I’m looking to collaborate on my projects
 - 📫 How to reach me ... : sarshary@gmail.com
 
